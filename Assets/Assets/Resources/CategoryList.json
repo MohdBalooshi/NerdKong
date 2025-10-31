@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "id": "general_knowledge",
+      "displayName": "General Knowledge",
+      "packPath": "QuestionPacks/general_knowledge_pack",
+      "iconAddress": ""
+    },
+    {
+      "id": "sports",
+      "displayName": "Sports",
+      "packPath": "QuestionPacks/sports_pack",
+      "iconAddress": ""
+    }
+  ]
+}

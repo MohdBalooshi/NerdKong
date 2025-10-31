@@ -1,0 +1,135 @@
+{
+  "categoryId": "general_knowledge",
+  "questions": [
+    {
+      "id": "gk001",
+      "categoryId": "general_knowledge",
+      "text": "What is the capital of France?",
+      "options": [
+        "Paris",
+        "Berlin",
+        "Madrid",
+        "Rome"
+      ],
+      "correctIndex": 0,
+      "difficulty": 1
+    },
+    {
+      "id": "gk002",
+      "categoryId": "general_knowledge",
+      "text": "Which planet is known as the Red Planet?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "gk003",
+      "categoryId": "general_knowledge",
+      "text": "Who wrote 'Hamlet'?",
+      "options": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "Mark Twain",
+        "Leo Tolstoy"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "gk004",
+      "categoryId": "general_knowledge",
+      "text": "The chemical symbol 'O' stands for which element?",
+      "options": [
+        "Gold",
+        "Oxygen",
+        "Osmium",
+        "Oganesson"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "gk005",
+      "categoryId": "general_knowledge",
+      "text": "How many continents are there on Earth?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 2,
+      "difficulty": 1
+    },
+    {
+      "id": "gk006",
+      "categoryId": "general_knowledge",
+      "text": "What is H2O commonly known as?",
+      "options": [
+        "Salt",
+        "Water",
+        "Hydrogen",
+        "Oxygen"
+      ],
+      "correctIndex": 1,
+      "difficulty": 1
+    },
+    {
+      "id": "gk007",
+      "categoryId": "general_knowledge",
+      "text": "Which ocean is the largest?",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correctIndex": 3,
+      "difficulty": 2
+    },
+    {
+      "id": "gk008",
+      "categoryId": "general_knowledge",
+      "text": "Which language has the most native speakers?",
+      "options": [
+        "English",
+        "Mandarin Chinese",
+        "Spanish",
+        "Hindi"
+      ],
+      "correctIndex": 1,
+      "difficulty": 3
+    },
+    {
+      "id": "gk009",
+      "categoryId": "general_knowledge",
+      "text": "What gas do plants primarily absorb for photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Helium"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    },
+    {
+      "id": "gk010",
+      "categoryId": "general_knowledge",
+      "text": "Which instrument has keys, pedals, and strings?",
+      "options": [
+        "Guitar",
+        "Piano",
+        "Violin",
+        "Drums"
+      ],
+      "correctIndex": 1,
+      "difficulty": 2
+    }
+  ]
+}
